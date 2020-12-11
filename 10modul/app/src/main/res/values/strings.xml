@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_view">Text View</string>
+    <string name="NameInput">Введите свое имя</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="hello_string">Привет, %1$s</string>
+    <string name="clear_field">очистить поле</string>
+    <string name="cleared_field">Поле ввода очищено</string>
+    <string name="make_long_operation">Совершить долгую операцию</string>
+    <string name="long_operation_completed">Операция завершена</string>
+    <string name="add">Добавить</string>
+</resources>
